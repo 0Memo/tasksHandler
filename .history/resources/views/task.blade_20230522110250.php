@@ -1,0 +1,1 @@
+La tâche demandée s'appelle {{ $task['task'] }}, et elle est attribuée à l'équipe {{ $task['team_name'] }}.

@@ -1,0 +1,1 @@
+La tâche: "{{ $task['task'] }}" est attribuée à l'équipe <strong>{{ $task['team_name'] }}</strong>.
